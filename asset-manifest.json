@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Youtube-Clone-using-ReactJS/static/css/main.8e940ff8.css",
+    "main.js": "/Youtube-Clone-using-ReactJS/static/js/main.4fdd74c3.js",
+    "index.html": "/Youtube-Clone-using-ReactJS/index.html",
+    "main.8e940ff8.css.map": "/Youtube-Clone-using-ReactJS/static/css/main.8e940ff8.css.map",
+    "main.4fdd74c3.js.map": "/Youtube-Clone-using-ReactJS/static/js/main.4fdd74c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e940ff8.css",
+    "static/js/main.4fdd74c3.js"
+  ]
+}
