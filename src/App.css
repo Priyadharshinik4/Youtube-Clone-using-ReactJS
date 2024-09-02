@@ -65,14 +65,24 @@ body{
 }
 .videos{
   position: absolute;
-  left: 65px;
+  left: 110px;
   top: 100px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+
 }
-.videos h3,h4,h5{
+.videos .one{
+  margin-top: 20px;
+}
+.videos h3{
   margin: 0;
-  padding: 0;
-} 
+  font-weight: 300;
+}
+.videos h4{
+  margin: 0;
+}
+.videos h5{
+  margin: 0;
+  font-weight: 300;
+}
