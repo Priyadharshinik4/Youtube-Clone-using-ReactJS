@@ -36,76 +36,52 @@ function Youtube(){
             </div>
             <div className="videos">
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <h3>Men's 4x100m Final | Paris Champions</h3>
                     <h4>Olympics</h4>
                     <h5>2 weeks ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/Ip3AxuzU9Rs?si=_q_28W5ua3xCPL0q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>                   
+                    <h3>Cooking with ONLY natural kitchenware</h3>
+                    <h4>Longmeimei</h4>
+                    <h5>2 years ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/K87aFjB7Ff0?si=r9B1pBCtwwmizT4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Beautiful sunrise and flower's</h3>
+                    <h4>Natural Stories</h4>
+                    <h5>1 year ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/Zv11L-ZfrSg?si=GoO5qKAKfA73lw3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Ultimate wildlife animals</h3>
+                    <h4>8K videos</h4>
+                    <h5>2 months ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/668nUCeBHyY?si=yy6JJ5aortB6Uue-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Natural Beautiful shorts</h3>
+                    <h4>Ashwanth Mohan</h4>
+                    <h5>11 years ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/T_HElxAskxg?si=9jx88Nqey8NazzLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Cute Babies</h3>
+                    <h4>5-Minutes Funny videos</h4>
+                    <h5>7 weeks ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/hxOApe1P9dM?si=gd9kHdm5XGDIEYj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Humpty Dumpty</h3>
+                    <h4>Cocomelon</h4>
+                    <h5>1 year ago</h5>
                 </div>
                 <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
-                </div>
-                <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
-                </div>
-                <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
-                </div>
-                <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
-                </div>
-                <div className="one">
-                    <iframe width="230" height="200" src="https://www.youtube.com/embed/Iy8lSoRzElo?si=SY_nIbTdC1Ukb7GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <h3>Men's 4x100m Final | Paris Champions</h3>
-                    <h4>Olympics</h4>
-                    <h5>2 weeks ago</h5>
+                    <iframe width="240" height="150" src="https://www.youtube.com/embed/Rp1UCUq9kDs?si=P2wFimEbL1s3_fOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Fire Game</h3>
+                    <h4>Zabi FF</h4>
+                    <h5>2 days ago</h5>
                 </div>
             </div>
         </div>
